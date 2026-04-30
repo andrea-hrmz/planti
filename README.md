@@ -1,0 +1,2 @@
+# planti
+bot de discord
